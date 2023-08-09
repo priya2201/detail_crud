@@ -1,0 +1,18 @@
+{
+  "fruits": [
+    {
+      "name": "apple",
+      "quantity": 30,
+      "price": 4000,
+      "imageUrl": "https://picsum.photos/800",
+      "id": 1
+    },
+    {
+      "name": "cherry",
+      "quantity": 10,
+      "price": 1000,
+      "imageUrl": "https://picsum.photos/200",
+      "id": 2
+    }
+  ]
+}
